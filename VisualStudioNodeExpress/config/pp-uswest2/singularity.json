@@ -1,0 +1,12 @@
+{
+  "requestId": "pp-piotrnode",
+    "resources": {
+        "cpus": 0.1,
+	    "memoryMb": 256,
+	        "numPorts": 1
+		  },
+		    "healthcheckUri": "/",
+		      "env": {
+		          "NODE_ENV": "pp-uswest2"
+			    }
+			    }
